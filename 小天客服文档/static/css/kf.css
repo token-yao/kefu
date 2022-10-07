@@ -1,0 +1,47 @@
+.site-xiaotian-getlist{
+	margin-right: 30px;
+    padding: 30px 20px;
+    font-size: 14px;
+    border: 1px solid #e2e2e2;
+    border-top-width: 5px;
+}
+.site-xiaotian-getlist p {
+	text-align: center;
+    font-weight: 300;
+    font-size: 16px;
+}
+.site-xiaotian-getlist p span {
+    color: #f40;
+}
+.site-xiaotian-getlist .site-xiaotian-title {
+    margin: 20px 0 0;
+   text-align: center;
+}
+.site-xiaotian-title fieldset {
+    display: inline-block;
+    width: 218px;
+    border: none;
+    border-top: 1px solid #B1B1B1;
+    text-align: center;
+}
+.site-xiaotian-title fieldset legend {
+    padding: 0 15px;
+    font-size: 20px;
+    font-weight: 300;
+}
+.site-xiaotian-text {
+    line-height: 24px;
+    font-weight: 300;
+}
+.site-xiaotian-getlist ul.site-xiaotian-text li {
+    margin-left: 18px;
+    line-height: 30px;
+    font-weight: 300;
+    list-style-type: disc;
+    list-style:none;
+}
+.site-xiaotian-buy {
+    text-align: center;
+  margin-top: 20px;
+}
+.site-xiaotian-getlist hr{background: none;}
